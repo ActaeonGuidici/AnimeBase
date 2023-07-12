@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dp5SijtVTfIuVqwCTIJXv1yvXRMBrBCzWW74LXJ45mp96N92IWKPVHbiB5G9TPcjzSaM/9P1y3+aVyc8bYmMnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\AnimeBase\\AnimeBase\\AnimeBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

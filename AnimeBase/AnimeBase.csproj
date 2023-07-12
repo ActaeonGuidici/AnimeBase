@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="AddProductArt.jpg" />
+    <None Remove="AddWindow.jpg" />
+    <None Remove="Background.jpg" />
+    <None Remove="LOGO.png" />
+    <None Remove="MenuBackground.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MahApps.Metro.IconPacks.Material" Version="4.11.0" />
+    <PackageReference Include="MaterialDesignColors" Version="2.0.9" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="AddProductArt.jpg" />
+    <Resource Include="AddWindow.jpg" />
+    <Resource Include="Background.jpg" />
+    <Resource Include="LOGO.png" />
+    <Resource Include="MenuBackground.jpg" />
+  </ItemGroup>
+
+</Project>
